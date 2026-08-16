@@ -2,3 +2,5 @@
 /.venv
 /data_engineer_learning_roadmap.md
 /fraud_pipeline_design_doc.md
+/producer.py
+/consumer.py
